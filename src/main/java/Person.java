@@ -6,6 +6,7 @@
  * Date: 2018-02-06
  * Time: 下午4:03
  */
+error
 public class Person {
     private String name;
     private int age;
